@@ -1,0 +1,5 @@
+pands 0.25.1
+numpy 1.16.5
+eli5 0.11.0
+nltk 3.4.5
+sklearn 0.21.3
